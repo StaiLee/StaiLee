@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Assembly / Solidity / C++ / Cyber Security**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
