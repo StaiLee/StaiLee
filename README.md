@@ -19,14 +19,12 @@
   <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stailee&show_icons=true&locale=en&layout=compact" alt="stailee" /></p>
-
-
-
-
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stailee&show_icons=true&locale=en" alt="stailee" /></p>
-
-
-
-
+<br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stailee&" alt="stailee" /></p>
+<br>
+<br>
 
