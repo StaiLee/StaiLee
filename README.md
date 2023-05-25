@@ -18,3 +18,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stailee&" alt="stailee" /></p>
 
 
+<img title="Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaiLee&layout=compact" width="40%" />
+<img title="Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=@StaiLee&compact=True" width="40%"/>
