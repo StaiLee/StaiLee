@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm StaiLee</h1>
 
-- 🔭 I’m currently working on Revochat (github.com/revochat)
+<p align="left"> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
 
 - 🌱 I’m currently learning **Assembly / Solidity / C++ / Cyber Security**
 
