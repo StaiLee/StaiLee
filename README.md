@@ -2,7 +2,7 @@
 
 <p align="left"> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
 
-- 🌱 I’m currently learning **Assembly / Solidity / C++ / Cyber Security**
+<p> 🌱 I’m currently learning **Assembly / Solidity / C++ / Cyber Security**</p>
 
 <p align="left">
 </p>
