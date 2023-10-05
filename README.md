@@ -12,4 +12,4 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-            ![samurai-champlo-grass-chill-samurai-champloo](https://github.com/StaiLee/StaiLee/assets/102300908/5ac4a99d-9923-483c-b3af-1558d551b1de)
+ ![samurai-champlo-grass-chill-samurai-champloo](https://github.com/StaiLee/StaiLee/assets/102300908/5ac4a99d-9923-483c-b3af-1558d551b1de)
