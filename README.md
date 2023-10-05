@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm StaiLee</h1>
 
+
+
+![7a6a391840960aa392bbfcc1e577e5e4](https://github.com/StaiLee/StaiLee/assets/102300908/1d9a2685-b87b-43e6-8306-b274c7b8eea0)
+
+
+
 <p align="left"> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
 
 <p> 🌱 I’m currently learning Assembly / Solidity / C++ / Cyber Security</p>
