@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=StaiLee.StaiLee" />
 <h1 align="center">Hi 👋, I'm StaiLee</h1>
 
 <p align="center"> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
