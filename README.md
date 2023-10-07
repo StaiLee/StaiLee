@@ -9,8 +9,10 @@
 
 
 <div align="center">
-  <img src="https://github.com/StaiLee/StaiLee/assets/102300908/1d9a2685-b87b-43e6-8306-b274c7b8eea0" alt="Description de l'image">
+  
+  ![cc77b10abfe52a4cd148da8efbb0e620](https://github.com/StaiLee/StaiLee/assets/102300908/45a1de54-f49d-4208-8239-68bf22fbcb82)
 </div>
+
 
 
 
