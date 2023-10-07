@@ -1,4 +1,4 @@
-![7a6a391840960aa392bbfcc1e577e5e4](https://github.com/StaiLee/StaiLee/assets/102300908/5d5b76e3-ab62-4e70-af7e-99f5dc55e0db)<h1 align="center">Hi 👋, I'm StaiLee</h1>
+<h1 align="center">Hi 👋, I'm StaiLee</h1>
 
 <p align="center"> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
 
@@ -9,7 +9,7 @@
 
 <div align="center">
   
-![Uploading 7a6a391840960aa392bbfcc1e577e5e4.gif…]()
+![7a6a391840960aa392bbfcc1e577e5e4](https://github.com/StaiLee/StaiLee/assets/102300908/5d5b76e3-ab62-4e70-af7e-99f5dc55e0db)
 </div>
 
 
