@@ -31,6 +31,14 @@
 
 <hr>
 
+<h2 align="center"> ⚡ Stats ⚡ </h2>
+<br>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=StaiLee&theme=midnight-purple&border_radius=10" alt="GitHub Streak" /></a>
+</div>
+<hr>
+
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=50&color=684A95&background=BB628500&center=true&vCenter=true&width=435&lines=Grind;Harder...;Again;and+Again...;IWBTB" alt="Typing SVG" /></a>
   
