@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm StaiLee</h1>
+![7a6a391840960aa392bbfcc1e577e5e4](https://github.com/StaiLee/StaiLee/assets/102300908/5d5b76e3-ab62-4e70-af7e-99f5dc55e0db)<h1 align="center">Hi 👋, I'm StaiLee</h1>
 
 <p align="center"> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
 
@@ -7,11 +7,19 @@
 <p align="left">
 </p>
 
-
 <div align="center">
   
-  ![cc77b10abfe52a4cd148da8efbb0e620](https://github.com/StaiLee/StaiLee/assets/102300908/45a1de54-f49d-4208-8239-68bf22fbcb82)
+![Uploading 7a6a391840960aa392bbfcc1e577e5e4.gif…]()
+
 </div>
+
+
+
+
+  
+ 
+  
+
 
 
 
