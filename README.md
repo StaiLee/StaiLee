@@ -8,9 +8,7 @@
 </p>
 
 <div align="center">
-  
 ![Uploading 7a6a391840960aa392bbfcc1e577e5e4.gif…]()
-
 </div>
 
 
