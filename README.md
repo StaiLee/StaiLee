@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=StaiLee.StaiLee" />
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=8087F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+StaiLee" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=400&color=8087F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+StaiLee" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center"> 🔭 I’m currently working on Revochat (github.com/revochat)</p>
