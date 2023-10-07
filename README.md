@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![7a6a391840960aa392bbfcc1e577e5e4](https://github.com/StaiLee/StaiLee/assets/102300908/5d5b76e3-ab62-4e70-af7e-99f5dc55e0db)
+![da2c0f90f786fcf88021517fbe7fea74](https://github.com/StaiLee/StaiLee/assets/102300908/0ff50c3a-3b23-4594-99ad-e8b97b1273fc)
 </div>
 
 <div align="center">
@@ -25,5 +25,15 @@
 <div align="center"> <h2> 🐍 My Contributions 🐍 </h2> 
 <br>
 <img alt="snakysnake" src="https://raw.githubusercontent.com/StaiLee/StaiLee/output/github-contribution-grid-snake.svg" />
-
 </div>
+
+<hr>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=50&color=684A95&background=BB628500&center=true&vCenter=true&width=435&lines=Grind;Harder...;Again;and+Again...;IWBTB" alt="Typing SVG" /></a>
+  
+  ![lofi](https://github.com/StaiLee/StaiLee/assets/102300908/fa7a3136-c96d-4517-9512-d67c4a3bb561)
+</div>
+
+
+
