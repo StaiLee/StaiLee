@@ -22,6 +22,9 @@
 
 </div>
 
+<br>
+<br>
+
 <div align="center"> <h2> 🐍 My Contributions 🐍 </h2> 
 <br>
 <img alt="snakysnake" src="https://raw.githubusercontent.com/StaiLee/StaiLee/output/github-contribution-grid-snake.svg" />
