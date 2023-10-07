@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![da2c0f90f786fcf88021517fbe7fea74](https://github.com/StaiLee/StaiLee/assets/102300908/0ff50c3a-3b23-4594-99ad-e8b97b1273fc)
+![Pv5D](https://github.com/StaiLee/StaiLee/assets/102300908/78940b17-e4e6-4075-807b-ad03e32eb6c2)
 </div>
 
 <div align="center">
@@ -35,6 +35,11 @@
 <br>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=StaiLee&theme=midnight-purple&border_radius=10" alt="GitHub Streak" /></a>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StaiLee)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+  
 </div>
 <hr>
 
