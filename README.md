@@ -8,7 +8,8 @@
 
 <div align="center">
   
-![Pv5D](https://github.com/StaiLee/StaiLee/assets/102300908/78940b17-e4e6-4075-807b-ad03e32eb6c2)
+![0cfc8d83add7f676e7068bde63bbd4de](https://github.com/StaiLee/StaiLee/assets/102300908/769be0a7-ba6e-45e8-a3f8-762158800a25)
+
 </div>
 
 <div align="center">
