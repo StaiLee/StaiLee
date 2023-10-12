@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Stats ⚡ </h2>
 <br>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=StaiLee&theme=midnight-purple&border_radius=10" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=StaiLee&theme=blue-navy&border_radius=10" alt="GitHub Streak" /></a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StaiLee&theme=midnight-purple&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StaiLee&theme=blue-navy&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
   <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StaiLee&theme=midnight-purple&border_radius=10)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StaiLee&theme=blue-navy&border_radius=10)
   
 
   
